@@ -3,7 +3,7 @@
 ## Estimator reference: SPTpol CMB-cluster lensing using polarisation-only data. arXiv: [1907.08906](https://arxiv.org/abs/1907.08605)
 
 ## Example: 
-* Look into this [notebook](https://github.com/sriniraghunathan/cmb_cluster_lensing/blob/main/scripts/cluster_lensing_example.ipynb) for a simple example.
+* Look into this [notebook](scripts/cluster_lensing_example.ipynb) for a simple example.
 
 ## Steps for pipeline execution:
 * Step 1: Creating cluster lensed or random unlensed CMB simulations.
